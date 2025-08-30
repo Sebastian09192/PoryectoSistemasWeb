@@ -1,4 +1,4 @@
-# TiendaConadimi - Tienda Virtual Completa
+# TiendaVSCR - Tienda Virtual Completa
 
 **Proyecto Final ITI-523**  
 Sistema completo de tienda virtual con backend PHP/MySQL y frontend responsive con Bootstrap 5, incluyendo carrito de compras, proceso de pago, gestión de usuarios y reportes.
